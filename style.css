@@ -1,0 +1,42 @@
+h1 {
+color: #00456d;
+}
+
+.nishant{
+    background-color: #ffffff;
+    border:solid ;
+    border-radius: 20px;
+    border-bottom-color : #7e3ef4;
+    border-top-color : #a4b4b3;
+    border-right-color : #f43f3f;
+    border-left-color : #b63f3f;
+    display:flex;
+    justify-content: space-between;
+
+}
+.nisha{
+    display:flex;
+    justify-content: space-around;
+ flex-wrap: wrap 
+}
+.bye{
+    display:flex;
+    justify-content: flex-end;
+}
+
+h2,p{
+    text-align: center;
+}
+
+*{
+    background-color: #00ffff;
+}
+h2{
+    text-decoration-line:underline ;
+    text-decoration-style:wavy ;  
+    word-spacing: 10000px;
+    outline-color: #e5ff00 ;
+outline-style: groove;
+}
+
+    
